@@ -1,0 +1,18 @@
+{
+  "prices": {
+    "cake": 550,
+    "sundae": 350,
+    "tray": 700,
+    "cones": {
+      "Single Cone": 200,
+      "99": 250,
+      "Sherbet Cone": 250,
+      "Marshmallow Cone": 250,
+      "Waffle Cone": 350
+    }
+  },
+  "minOrder": 1000,
+  "maxDaysAhead": 2,
+  "closedDates": [],
+  "closedWeekdays": []
+}
